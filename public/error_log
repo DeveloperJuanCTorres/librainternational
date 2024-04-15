@@ -1,0 +1,14 @@
+[11-Oct-2023 14:42:40 America/Lima] PHP Fatal error:  Cannot use empty array elements in arrays in /home/libraint/public_html/app/Http/Controllers/ReviewController.php on line 54
+[03-Nov-2023 16:10:20 America/Lima] PHP Fatal error:  Cannot use empty array elements in arrays in /home/libraint/public_html/app/Http/Controllers/AdminController.php on line 28
+[03-Nov-2023 16:10:49 America/Lima] PHP Fatal error:  Cannot use empty array elements in arrays in /home/libraint/public_html/app/Http/Controllers/AdminController.php on line 28
+[03-Nov-2023 16:12:36 America/Lima] PHP Fatal error:  Cannot use empty array elements in arrays in /home/libraint/public_html/app/Http/Controllers/AdminController.php on line 28
+[03-Nov-2023 16:56:33 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
+[03-Nov-2023 16:57:01 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
+[03-Nov-2023 16:57:12 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
+[03-Nov-2023 16:57:30 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
+[03-Nov-2023 16:58:34 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
+[03-Nov-2023 16:58:48 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
+[03-Nov-2023 16:59:26 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
+[03-Nov-2023 17:00:00 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
+[03-Nov-2023 17:00:57 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
+[03-Nov-2023 17:01:29 America/Lima] PHP Fatal error:  Cannot use App\Models\Media as Media because the name is already in use in /home/libraint/public_html/app/Http/Controllers/ProductController.php on line 8
